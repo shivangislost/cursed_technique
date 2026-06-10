@@ -1,4 +1,4 @@
-# SAT0RU — Cursed Technique Visualizer 呪術廻戦
+# SAT0RU — Cursed Technique Visualizer
 
 A real-time cursed technique visualizer inspired by Jujutsu Kaisen. Uses hand-tracking via your webcam to trigger stunning particle-based cursed techniques powered by Three.js and MediaPipe.
 
@@ -40,7 +40,3 @@ Hand gestures control 20,000 particles to render volume-based cursed techniques:
 ## Author
 
 **Shivang**
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
