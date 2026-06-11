@@ -2,8 +2,7 @@
 
 A real-time cursed technique visualizer inspired by Jujutsu Kaisen. Uses hand-tracking via your webcam to trigger stunning particle-based cursed techniques powered by Three.js and MediaPipe.
 
-## Features
-
+## Features of the Visualizer
 
 Hand gestures control 20,000 particles to render volume-based cursed techniques:
 
