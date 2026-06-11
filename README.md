@@ -4,6 +4,7 @@ A real-time cursed technique visualizer inspired by Jujutsu Kaisen. Uses hand-tr
 
 ## Features
 
+
 Hand gestures control 20,000 particles to render volume-based cursed techniques:
 
 - **Cursed Technique Reversal: Red** — A violent, spiraling vortex of repulsive force.
