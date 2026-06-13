@@ -20,7 +20,8 @@ Hand gestures control 20,000 particles to render volume-based cursed techniques:
 ### Prerequisites
 - A modern web browser (Chrome, Edge, Firefox)
 - A webcam
-
+✨
+  
 ### Run Locally
 1. Clone the repo
    ```bash
