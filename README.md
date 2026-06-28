@@ -14,6 +14,8 @@ Hand gestures control 20,000 particles to render volume-based cursed techniques:
   - *Trigger:* Pinch gesture (Thumb + Index touching).
 - **Domain Expansion: Malevolent Shrine** — A dark, ominous shrine structure.
   - *Trigger:* All fingers up (open hand).
+#includes neutral state too.
+
 
 ## Getting Started
 
