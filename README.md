@@ -16,7 +16,6 @@ Hand gestures control 20,000 particles to render volume-based cursed techniques:
   - *Trigger:* All fingers up (open hand).
 #includes neutral state too.
 
-
 ## Getting Started
 ### Prerequisites
 - A modern web browser (Chrome, Edge, Firefox)
